@@ -1,18 +1,23 @@
 # WeatherApp: Real-Time Weather & Location Tracker
-| Nama Anggota           | NRP        |
-|:-----------------------|:-----------|
+<div align="center">
+
+| Nama Anggota | NRP |
+|:---|:---|
 | Muhammad Nabil Afrizal Rahmadani | 5025231014 |
 | Randi Palguna Artayasa | 5025231020 |
 
+</div>
+
+<br>
 # 🖼️ Screenshots & Infographics
 
 <div align="center">
-  <img src="app_screenshot/screen-2.jpeg" width="300" alt="Main Dashboard Screen">
-  <img src="app_screenshot/screen-1.jpeg" width="300" alt="Search and Save Screen">
+  <img src="app_screenshot/screen-1.jpeg" width="200" alt="Main Dashboard Screen">
+  <img src="app_screenshot/screen-2.jpeg" width="200" alt="Search and Save Screen">
 </div>
 
 <div align="center">
-  <img src="app_screenshot/Overview.png" width="500" alt="Main Dashboard Screen">
+  <img src="app_screenshot/Overview.png" width="400" alt="Main Dashboard Screen">
 </div>
 
 # 📱 APK File
@@ -21,6 +26,7 @@ https://drive.google.com/file/d/1Axy_ef5j9GZ6yWnaw_eezJ9whWaFohez/view?usp=shari
 # ▶️ Video Demo
 https://drive.google.com/file/d/16h5vlFHlXa1pgiCDmiItzdvKC-RX_o7u/view?usp=sharing
 
+<br> 
 # 📖 User Manual
 ## 1. Informasi Produk
 * **Nama Produk:** WeatherApp
@@ -65,7 +71,7 @@ Membangun aplikasi Android yang memungkinkan:
     * UI Responsif pada berbagai ukuran layar.
 
 ## 6. User Persona
-* **Nama:** Randi
+* **Nama:** Edward
 * **Umur:** 25 Tahun
 * **Pekerjaan:** Freelancer & Traveler
 * **Kebutuhan:**
@@ -148,8 +154,8 @@ Membangun aplikasi Android yang memungkinkan:
 * User Manual (This Document)
 
 ## 17. Definition of Done (DoD)
-* [ ] Dashboard menampilkan data real-time.
-* [ ] Fitur simpan/hapus lokasi berfungsi.
-* [ ] Lokasi default termuat saat aplikasi dibuka.
-* [ ] Navigasi Footer berfungsi antar halaman.
-* [ ] Aplikasi tidak crash saat tidak ada koneksi internet.
+* [x] Dashboard menampilkan data real-time.
+* [x] Fitur simpan/hapus lokasi berfungsi.
+* [x] Lokasi default termuat saat aplikasi dibuka.
+* [x] Navigasi Footer berfungsi antar halaman.
+* [x] Aplikasi tidak crash saat tidak ada koneksi internet.
