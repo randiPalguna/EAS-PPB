@@ -1,8 +1,9 @@
 # WeatherApp: Real-Time Weather & Location Tracker
+
 <div align="center">
 
 | Nama Anggota | NRP |
-|:---|:---|
+|:---:|:---:|
 | Muhammad Nabil Afrizal Rahmadani | 5025231014 |
 | Randi Palguna Artayasa | 5025231020 |
 
