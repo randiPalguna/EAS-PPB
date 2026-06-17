@@ -22,6 +22,9 @@
   <img src="app_screenshot/Overview.png" width="400" alt="Main Dashboard Screen">
 </div>
 
+# 📑 PPT
+https://drive.google.com/file/d/1pQVCk3Zyk6mZYhKklAcCm1_g-2B_X2I1/view?usp=sharing
+
 # 📱 APK File
 https://drive.google.com/file/d/1Axy_ef5j9GZ6yWnaw_eezJ9whWaFohez/view?usp=sharing
 
